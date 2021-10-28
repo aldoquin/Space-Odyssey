@@ -13,7 +13,7 @@ live on: https://dry-brook-41342.herokuapp.com/
 ## Table of Contents
 
 - [Description](#description)
-- [Technologies Used] (#technologies)
+- [Technologies Used](#technologies)
 - [Contributing Members](#contributors)
 - [License](#license)
 - [Questions](#questions)

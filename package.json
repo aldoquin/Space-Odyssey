@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/aldoquin/Space-Odyssey/issues"
   },
-  "homepage": "https://github.com/aldoquin/Space-Odyssey#readme",
+  "homepage": "https://github.com/aldoquin/Space-Odyssey/",
   "dependencies": {
     "apollo-server-express": "^3.4.0",
     "bcrypt": "^5.0.1",
